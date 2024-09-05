@@ -31,4 +31,4 @@
 
  ##
 
-
+ ![Snake animation](https://github.com/andergus/andergus/blob/output/github-contribution-grid-snake.svg)
